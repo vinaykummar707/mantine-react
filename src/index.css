@@ -1,0 +1,16 @@
+.main-bg {
+	background-color: hsla(0, 0%, 100%, 1);
+	background-image: radial-gradient(
+			circle at 32% 16%,
+			hsla(14.000000000000004, 100%, 64%, 0.33) 17.647148063137625%,
+			transparent 61.5109675345299%
+		),
+		radial-gradient(
+			circle at 75% 1%,
+			hsla(247.99999999999997, 100%, 63%, 0.3) 11.26645584295136%,
+			transparent 63.69587993071477%
+		);
+	background-blend-mode: multiply, multiply;
+}
+.your_css_selector_here {
+}
